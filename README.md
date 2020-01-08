@@ -2,7 +2,7 @@ This is Simple BLOB CRUD Application in Spring4 and Hibernate4
 
 Steps to run this application on your system:
 1. Clone repository to your system using git clone 
-**https://mahendrabagul@bitbucket.org/mahendrabagul/blobcrudoperationsusingspring4andhibernate4maven.git
+**git@github.com:mahendrabagul/blob-crud-operations-using-spring4-hibernate4-maven.git
 **
 2. This needs to have installed Maven 3.x and Java on your machine.
 
